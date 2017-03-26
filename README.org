@@ -1,0 +1,2 @@
+#+TITLE: mg/org-wiki
+#+AUTHOR: Martin Gausby
